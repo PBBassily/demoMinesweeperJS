@@ -6,6 +6,7 @@
 // Video: https://youtu.be/LFU5ZlrR21E
 
 function Cell(i, j, w) {
+  // 3ash git
   this.i = i;
   this.j = j;
   this.x = i * w;
